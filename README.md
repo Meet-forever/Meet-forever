@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Meet Patel</h1>
 <h4 align="center">A Computer Science Student at Georgia State University</h4>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=meet-forever&label=Profile%20views&color=0e75b6&style=flat" alt="meet-forever" /> </p>
 
 - 🔭 I’m currently working on [Atlanta Crime Data API](https://github.com/Meet-forever/AtlantaCrimeDataAPI)
 
