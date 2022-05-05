@@ -3,6 +3,7 @@
 
 
 - 🔭 I’m currently working on [Random Things](https://github.com/Meet-forever?tab=repositories)
+<img src="https://giphy.com/gifs/XIqCQx02E1U9W?utm_source=media-link&utm_medium=landing&utm_campaign=Media%20Links&utm_term=">
 
 - 🌱 I’m currently learning **many things.**
 
