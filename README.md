@@ -2,7 +2,7 @@
 <h4 align="center">A Computer Science Student at Georgia State University</h4>
 
 
-- 🔭 I’m currently working on [Atlanta Crime Data API](https://github.com/Meet-forever/AtlantaCrimeDataAPI)
+- 🔭 I’m currently working on [Random Things](https://github.com/Meet-forever?tab=repositories)
 
 - 🌱 I’m currently learning **many things.**
 
