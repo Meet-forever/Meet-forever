@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Meet Patel</h1>
 <h4 align="center">A Computer Science Student at Georgia State University</h4>
 
+<p align="center">
+<img src="https://media2.giphy.com/media/XIqCQx02E1U9W/giphy.gif?cid=790b7611b10052c30356ba7c0446f9121b8126648b825a98&rid=giphy.gif&ct=g">
+</p>
 
 - 🔭 I’m currently working on [Random Things](https://github.com/Meet-forever?tab=repositories)
-<img src="https://media2.giphy.com/media/XIqCQx02E1U9W/giphy.gif?cid=790b7611b10052c30356ba7c0446f9121b8126648b825a98&rid=giphy.gif&ct=g">
 
 - 🌱 I’m currently learning **many things.**
 
