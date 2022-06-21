@@ -10,11 +10,11 @@
 
 ### About Me 👨‍💻
 
-- 🔭 I’m currently working on [Random Things.](https://github.com/Meet-forever?tab=repositories)
+- 🔭 I’m currently working on [Hyper-Note.](https://github.com/Meet-forever/Hyper-note)
 
 - 🌱 I’m currently learning **things that pique my interest!** 😊
 
-- 💻 My portfolio website [Portfolio](https://patelmeet.netlify.app/)
+- 💻 My portfolio [website](https://patelmeet.netlify.app/)
 
 ---
 
