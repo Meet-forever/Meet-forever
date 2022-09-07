@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **things that pique my interest!** 😊
 
-- 💻 My portfolio [website](https://patelmeet.netlify.app/)
+<!-- - 💻 My portfolio [website](https://patelmeet.netlify.app/) -->
 
 ---
 
