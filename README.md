@@ -10,7 +10,7 @@
 
 ### About Me 👨‍💻
 
-- 🔭 I’m currently working on [Hyper-Note.](https://github.com/Meet-forever/Hyper-note)
+- 🔭 I’m currently working on [Nothing.](https://i.giphy.com/media/wtNOUuCzFKcaA/giphy.webp)
 
 - 🌱 I’m currently learning **things that pique my interest!** 😊
 
